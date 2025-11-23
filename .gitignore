@@ -14,10 +14,6 @@ vectorstore/
 *.faiss
 *.pkl
 
-# PDF uploads and copies
-pdf/
-resume.pdf
-*.pdf
 
 # Cache / hash files
 *.hash
